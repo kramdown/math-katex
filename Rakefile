@@ -52,7 +52,7 @@ spec = Gem::Specification.new do |s|
   s.require_path = 'lib'
   s.required_ruby_version = '>= 2.3'
   s.add_dependency 'kramdown', '~> 2.0'
-  s.add_dependency 'katex', '~> 0.4.3'
+  s.add_dependency 'katex', '~> 0.4'
 
   s.has_rdoc = true
 
