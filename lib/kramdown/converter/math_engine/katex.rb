@@ -15,7 +15,7 @@ module Kramdown::Converter #:nodoc:
     # Uses the KaTeX gem for converting math formulas to KaTeX HTML.
     module Katex
 
-      VERSION = '1.0.0'
+      VERSION = '1.0.1'
 
       def self.call(converter, el, opts)
         display_mode = el.options[:category] == :block
