@@ -1,6 +1,3 @@
-**Important: This repo and gem are unmaintained! If you are interested in
-maintaining, please contact me at <t_leitner@gmx.at>.**
-
 # kramdown math engine for conversion to HTML
 
 This is a converter for [kramdown](https://kramdown.gettalong.org) that uses
